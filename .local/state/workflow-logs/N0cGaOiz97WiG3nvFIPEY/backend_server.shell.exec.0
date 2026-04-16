@@ -1,0 +1,14 @@
+Backend server running on port 3001
+[add-task] teacher=2023a412-c526-47d3-9942-4d4324c15c2a, class_id=bds-2-dental-pharmacology, total students in teacher KV=3
+[add-task] student classIds: [
+  {
+    email: [32m'sudhanshuacmdropbox@gmail.com'[39m,
+    classId: [32m'bds-1-oral-anatomy'[39m
+  },
+  { email: [32m'ram@gmail.com'[39m, classId: [32m'bds-2-dental-pharmacology'[39m },
+  { email: [32m'rajji@gmail.com'[39m, classId: [32m'bds-2-dental-pharmacology'[39m }
+]
+[add-task] from teacher list: 2
+[add-task] from student profiles: 2, total unique emails: 2
+[add-task] assigned to ram@gmail.com
+[add-task] assigned to rajji@gmail.com
