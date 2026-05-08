@@ -4,6 +4,7 @@
   "private": true,
   "main": "app.js",
   "scripts": {
+    "build": "echo build step",
     "start": "node app.js",
     "dev": "node app.js"
   },
